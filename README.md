@@ -1,4 +1,4 @@
-# babel-review
+# sass-babel-quickstart
 Quick starter project with included JavaScript transpiler, SASS, CSS minification and Reset CSS
 
 ## Usage
